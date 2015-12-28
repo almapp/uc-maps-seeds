@@ -19,7 +19,13 @@
     ]
   },
   "parent": null,
-  "ancestors": []
+  "ancestors": [],
+  "contact": {
+    "urls": [],
+    "phones": [],
+    "emails": [],
+    "social": {}
+  }
 }, {
   "identifier": "CC",
   "campus": "CC",
@@ -39,7 +45,13 @@
     ]
   },
   "parent": null,
-  "ancestors": []
+  "ancestors": [],
+  "contact": {
+    "urls": [],
+    "phones": [],
+    "emails": [],
+    "social": {}
+  }
 }, {
   "identifier": "LC",
   "campus": "LC",
@@ -66,7 +78,13 @@
     ]
   },
   "parent": null,
-  "ancestors": []
+  "ancestors": [],
+  "contact": {
+    "urls": [],
+    "phones": [],
+    "emails": [],
+    "social": {}
+  }
 }, {
   "identifier": "OR",
   "campus": "OR",
