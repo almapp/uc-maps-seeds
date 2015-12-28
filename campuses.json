@@ -120,5 +120,34 @@
     ]
   },
   "parent": null,
-  "ancestors": []
+  "ancestors": [],
+  "contact": {
+    "urls": [],
+    "phones": [],
+    "emails": [],
+    "social": {}
+  }
+}, {
+  "identifier": "VR",
+  "campus": "VR",
+  "name": "Villarrica",
+  "shortName": "Villarrica",
+  "address": "Bernardo OHiggins 501, Villarrica, Chile",
+  "information": "",
+  "location": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+
+      ]
+    ]
+  },
+  "parent": null,
+  "ancestors": [],
+  "contact": {
+    "urls": [],
+    "phones": [],
+    "emails": [],
+    "social": {}
+  }
 }]
