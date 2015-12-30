@@ -429,35 +429,6 @@
     "faculty"
   ]
 }, {
-  "identifier": "FIL",
-  "campus": "SJ",
-  "name": "Facultad de Filosofía",
-  "shortName": "Filosofía",
-  "location": {
-    "type": "Polygon",
-    "coordinates": [
-      []
-    ]
-  },
-  "address": "",
-  "contact": {
-    "urls": [],
-    "phones": [],
-    "emails": [],
-    "social": {}
-  },
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }],
-  "categories": [
-    "faculty"
-  ]
-}, {
   "identifier": "FIS",
   "campus": "SJ",
   "name": "Facultad de Física",
