@@ -179,37 +179,6 @@
     "faculty"
   ]
 }, {
-  "identifier": "BIO",
-  "campus": "CC",
-  "name": "Facultad de Ciencias Biológicas",
-  "shortName": "Ciencias Biológicas",
-  "location": {
-    "type": "Polygon",
-    "coordinates": [
-      []
-    ]
-  },
-  "address": "",
-  "contact": {
-    "urls": [
-      "http://biologia.uc.cl/es"
-    ],
-    "phones": [],
-    "emails": [],
-    "social": {}
-  },
-  "parent": {
-    "identifier": "CC",
-    "campus": "CC"
-  },
-  "ancestors": [{
-    "identifier": "CC",
-    "campus": "CC"
-  }],
-  "categories": [
-    "faculty"
-  ]
-}, {
   "identifier": "EA",
   "campus": "SJ",
   "name": "Facultad de Ciencias Económicas y Administrativas",
