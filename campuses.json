@@ -25,7 +25,10 @@
     "phones": [],
     "emails": [],
     "social": {}
-  }
+  },
+  "categories": [
+    "campus"
+  ]
 }, {
   "identifier": "CC",
   "campus": "CC",
@@ -51,7 +54,10 @@
     "phones": [],
     "emails": [],
     "social": {}
-  }
+  },
+  "categories": [
+    "campus"
+  ]
 }, {
   "identifier": "LC",
   "campus": "LC",
@@ -84,7 +90,10 @@
     "phones": [],
     "emails": [],
     "social": {}
-  }
+  },
+  "categories": [
+    "campus"
+  ]
 }, {
   "identifier": "OR",
   "campus": "OR",
@@ -126,7 +135,10 @@
     "phones": [],
     "emails": [],
     "social": {}
-  }
+  },
+  "categories": [
+    "campus"
+  ]
 }, {
   "identifier": "VR",
   "campus": "VR",
@@ -149,5 +161,8 @@
     "phones": [],
     "emails": [],
     "social": {}
-  }
+  },
+  "categories": [
+    "campus"
+  ]
 }]

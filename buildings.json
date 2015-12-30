@@ -46,7 +46,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "building"
+  ]
 }, {
   "identifier": "LA_Y",
   "campus": "SJ",
@@ -79,7 +82,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "building"
+  ]
 }, {
   "identifier": "HALL SJ",
   "campus": "SJ",
@@ -114,7 +120,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "building"
+  ]
 }, {
   "identifier": "AL",
   "campus": "SJ",
@@ -147,7 +156,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "building"
+  ]
 }, {
   "identifier": "TEMPLO",
   "campus": "SJ",
@@ -178,7 +190,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "building"
+  ]
 }, {
   "identifier": "SAN_AGUSTIN",
   "campus": "SJ",
@@ -214,5 +229,8 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "building"
+  ]
 }]

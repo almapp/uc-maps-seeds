@@ -42,7 +42,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "DPT",
   "campus": "SJ",
@@ -85,7 +88,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "FADEU",
   "campus": "LC",
@@ -131,7 +137,10 @@
   "ancestors": [{
     "identifier": "LC",
     "campus": "LC"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "ART",
   "campus": "OR",
@@ -165,7 +174,10 @@
   "ancestors": [{
     "identifier": "OR",
     "campus": "OR"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "BIO",
   "campus": "CC",
@@ -193,7 +205,10 @@
   "ancestors": [{
     "identifier": "CC",
     "campus": "CC"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "EA",
   "campus": "SJ",
@@ -226,7 +241,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "SOC",
   "campus": "SJ",
@@ -257,7 +275,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "COM",
   "campus": "CC",
@@ -290,7 +311,10 @@
   "ancestors": [{
     "identifier": "CC",
     "campus": "CC"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "LET",
   "campus": "SJ",
@@ -322,7 +346,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "DE",
   "campus": "CC",
@@ -355,7 +382,10 @@
   "ancestors": [{
     "identifier": "CC",
     "campus": "CC"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "EDU",
   "campus": "SJ",
@@ -394,7 +424,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "FIL",
   "campus": "SJ",
@@ -420,7 +453,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "FIS",
   "campus": "SJ",
@@ -460,7 +496,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "HIS",
   "campus": "SJ",
@@ -495,7 +534,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "CCL",
   "campus": "SJ",
@@ -531,7 +573,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "ING",
   "campus": "SJ",
@@ -578,7 +623,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "MAT",
   "campus": "SJ",
@@ -615,7 +663,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "ENF",
   "campus": "SJ",
@@ -651,7 +702,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "MED",
   "campus": "CC",
@@ -683,7 +737,10 @@
   "ancestors": [{
     "identifier": "CC",
     "campus": "CC"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "QIM",
   "campus": "SJ",
@@ -713,7 +770,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "TTF",
   "campus": "SJ",
@@ -752,7 +812,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "D",
   "campus": "SJ",
@@ -790,7 +853,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "CS",
   "campus": "SJ",
@@ -821,7 +887,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "FIL",
   "campus": "SJ",
@@ -860,7 +929,10 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }, {
   "identifier": "BIO",
   "campus": "CC",
@@ -901,5 +973,8 @@
   "ancestors": [{
     "identifier": "CC",
     "campus": "CC"
-  }]
+  }],
+  "categories": [
+    "faculty"
+  ]
 }]
