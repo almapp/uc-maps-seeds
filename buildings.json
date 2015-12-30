@@ -179,4 +179,40 @@
     "identifier": "SJ",
     "campus": "SJ"
   }]
+}, {
+  "identifier": "SAN_AGUSTIN",
+  "campus": "SJ",
+  "name": "Edificio San Agustín",
+  "shortName": "Edificio San Agustín",
+  "location": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-33.498970, -70.615267],
+        [-33.498744, -70.615121],
+        [-33.498869, -70.615091],
+        [-33.498831, -70.614526],
+        [-33.499179, -70.614454],
+        [-33.499326, -70.614419],
+        [-33.499576, -70.614470],
+        [-33.499846, -70.614438],
+        [-33.499895, -70.614958],
+        [-33.499871, -70.615059]
+      ]
+    ]
+  },
+  "contact": {
+    "urls": [],
+    "phones": [],
+    "emails": [],
+    "social": {}
+  },
+  "parent": {
+    "identifier": "SJ",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }]
 }]
