@@ -7108,26 +7108,6 @@
     "campus": "SJ"
   }]
 }, {
-  "identifier": "FADEU",
-  "name": "FADEU",
-  "location": {
-    "type": "Point",
-    "coordinates": [-33.419663, -70.618624],
-    "floor": "-1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "LC",
-    "campus": "LC"
-  },
-  "ancestors": [{
-    "identifier": "LC",
-    "campus": "LC"
-  }]
-}, {
   "identifier": "feuc_cc",
   "name": "FEUC",
   "location": {
@@ -7930,7 +7910,10 @@
 }, {
   "identifier": "L MORENO",
   "name": "L. Moreno",
-  "parent": null,
+    "parent": {
+    "identifier": "CC",
+    "campus": "CC"
+  },
   "location": {
     "type": "Point",
     "coordinates": [
@@ -8545,29 +8528,6 @@
     "campus": "SJ"
   }]
 }, {
-  "identifier": "LET",
-  "name": "Letras",
-  "location": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }]
-}, {
   "identifier": "libreriauc_sociales",
   "name": "Librería UC",
   "location": {
@@ -8717,29 +8677,6 @@
     "type": "Point",
     "coordinates": [-33.446333, -70.594229],
     "floor": "1?"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }]
-}, {
-  "identifier": "MAT",
-  "name": "Matemáticas",
-  "location": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ],
-    "floor": "1"
   },
   "information": "",
   "categories": [
@@ -10477,29 +10414,6 @@
   "location": {
     "type": "Point",
     "coordinates": [-33.441339, -70.640445],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }]
-}, {
-  "identifier": "QIM",
-  "name": "Química",
-  "location": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ],
     "floor": "1"
   },
   "information": "",
