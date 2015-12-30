@@ -791,4 +791,115 @@
     "identifier": "SJ",
     "campus": "SJ"
   }]
+}, {
+  "identifier": "CS",
+  "campus": "SJ",
+  "name": "Ciencias de la Salud",
+  "shortName": "Ciencias de la Salud",
+  "location": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [33.500247, -70.610440],
+        [-33.500188, -70.609931],
+        [-33.500396, -70.609901],
+        [-33.500439, -70.610422]
+      ]
+    ]
+  },
+  "address": "",
+  "contact": {
+    "urls": [],
+    "phones": [],
+    "emails": [],
+    "social": {}
+  },
+  "parent": {
+    "identifier": "SJ",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }]
+}, {
+  "identifier": "FIL",
+  "campus": "SJ",
+  "name": "Instituto de Filosofía",
+  "shortName": "Filosofía",
+  "location": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-33.496663, -70.614209],
+        [-33.496649, -70.613913],
+        [-33.496824, -70.613890],
+        [-33.496846, -70.614193]
+      ]
+    ]
+  },
+  "address": "",
+  "contact": {
+    "urls": [
+      "http://filosofia.uc.cl"
+    ],
+    "phones": [
+      "(56-2) 2354 1460"
+    ],
+    "emails": [
+      "filosofia@uc.cl"
+    ],
+    "social": {
+      "facebook": "ExtensionInstitutoDeFilosofiaUc"
+    }
+  },
+  "parent": {
+    "identifier": "SJ",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }]
+}, {
+  "identifier": "BIO",
+  "campus": "CC",
+  "name": "Facultad de Ciencias Biológicas",
+  "shortName": "Biología",
+  "location": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-33.441616, -70.640040],
+        [-33.441487, -70.639824],
+        [-33.441315, -70.639711],
+        [-33.441238, -70.639589],
+        [-33.441683, -70.639132],
+        [-33.441848, -70.639177],
+        [-33.442057, -70.639700],
+        [-33.441932, -70.639786],
+        [-33.441864, -70.639801]
+      ]
+    ]
+  },
+  "address": "",
+  "contact": {
+    "urls": [
+      "http://biologia.uc.cl"
+    ],
+    "phones": [],
+    "emails": [
+      "comunicaciones@bio.puc.cl",
+      "decanato@bio.puc.cl "
+    ],
+    "social": {}
+  },
+  "parent": {
+    "identifier": "CC",
+    "campus": "CC"
+  },
+  "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }]
 }]
