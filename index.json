@@ -1,0 +1,8 @@
+{
+  "files": [
+    "seeds/campuses.json",
+    "seeds/faculties.json",
+    "seeds/buildings.json",
+    "seeds/places.json"
+  ]
+}
