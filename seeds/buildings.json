@@ -34,10 +34,13 @@
     "emails": [
       "centrodeinnovacionuc.cl"
     ],
-    "social": {
-      "facebook": "https://www.facebook.com/pages/Centro-de-Innovación-UC/673851555989524",
-      "twitter": "https://twitter.com/CentroinnovaUC"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/pages/Centro-de-Innovación-UC/673851555989524"
+    }, {
+      "type": "twitter",
+      "url": "https://twitter.com/CentroinnovaUC"
+    }]
   },
   "parent": {
     "identifier": "SJ",
@@ -73,7 +76,7 @@
     "urls": [],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -111,7 +114,7 @@
     "urls": [],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -147,7 +150,7 @@
     "urls": [],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -181,7 +184,7 @@
     "urls": [],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -220,7 +223,7 @@
     "urls": [],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",

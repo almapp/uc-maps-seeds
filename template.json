@@ -13,10 +13,7 @@
     "phones": [],
     "emails": [],
     "urls": [],
-    "social": {
-      "facebook": "",
-      "twitter": ""
-    }
+    "social": []
   },
   "parent": {
     "identifier": "",

@@ -30,10 +30,13 @@
       "(56 2) 2354 4895"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/faifuc",
-      "twitter": "https://twitter.com/AgroyForestalUC"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/faifuc"
+    }, {
+      "type": "twitter",
+      "url": "https://twitter.com/AgroyForestalUC"
+    }]
   },
   "parent": {
     "identifier": "SJ",
@@ -79,7 +82,7 @@
     "urls": [],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -125,10 +128,13 @@
       "(56) (2) 2354 7750"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/fadeuuc",
-      "twitter": "https://twitter.com/FADEU_UC"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/fadeuuc"
+    }, {
+      "type": "twitter",
+      "url": "https://twitter.com/FADEU_UC"
+    }]
   },
   "parent": {
     "identifier": "LC",
@@ -162,10 +168,13 @@
       "+562 2354 2000"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/ExtensionFacultadArtesUC",
-      "twitter": "https://twitter.com/facartesuc"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/ExtensionFacultadArtesUC"
+    }, {
+      "type": "twitter",
+      "url": "https://twitter.com/facartesuc"
+    }]
   },
   "parent": {
     "identifier": "OR",
@@ -201,7 +210,7 @@
     ],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -235,7 +244,7 @@
     "urls": [],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -268,10 +277,13 @@
       "(56-2) 23542020"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/fcomuc",
-      "twitter": "https://twitter.com/fcomuc"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/fcomuc"
+    }, {
+      "type": "twitter",
+      "url": "https://twitter.com/fcomuc"
+    }]
   },
   "parent": {
     "identifier": "CC",
@@ -304,9 +316,10 @@
       "223542000"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/letrasuc"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/letrasuc"
+    }]
   },
   "parent": {
     "identifier": "SJ",
@@ -339,10 +352,13 @@
       "(56) (2) 2 354 2000"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/derechouc",
-      "twitter": "https://twitter.com/derechouc"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/derechouc"
+    }, {
+      "type": "twitter",
+      "url": "https://twitter.com/derechouc"
+    }]
   },
   "parent": {
     "identifier": "CC",
@@ -384,7 +400,7 @@
       "+56 (2) 22354 5350"
     ],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -427,7 +443,7 @@
       "(56) (2) 354 4470"
     ],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -465,7 +481,7 @@
       "3547808"
     ],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -504,7 +520,7 @@
       "6864565"
     ],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -551,10 +567,13 @@
       "+56 2 354 11 93"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/EscueladeIngenieriaUniversidadCatolica",
-      "twitter": "https://twitter.com/ingenieriaUC"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/EscueladeIngenieriaUniversidadCatolica"
+    }, {
+      "type": "twitter",
+      "url": "https://twitter.com/ingenieriaUC"
+    }]
   },
   "parent": {
     "identifier": "SJ",
@@ -594,7 +613,7 @@
       "(56 2) 354 4511"
     ],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -630,10 +649,13 @@
       "(56-2) 2354 5831"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/escueladeenfermeria.uc",
-      "twitter": "https://twitter.com/Enfermeria_UC"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/escueladeenfermeria.uc"
+    }, {
+      "type": "twitter",
+      "url": "https://twitter.com/Enfermeria_UC"
+    }]
   },
   "parent": {
     "identifier": "SJ",
@@ -666,9 +688,10 @@
       "(56) (2) 354 2000"
     ],
     "emails": [],
-    "social": {
-      "facebook": "https://www.facebook.com/escuelamedicinauc"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "https://www.facebook.com/escuelamedicinauc"
+    }]
   },
   "parent": {
     "identifier": "CC",
@@ -701,7 +724,7 @@
       "(56) (2) 2354 2000"
     ],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -743,7 +766,7 @@
       "(56) (2) 2354 1634"
     ],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -784,7 +807,7 @@
       "(56) (2) 2354 5774"
     ],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -818,7 +841,7 @@
     "urls": [],
     "phones": [],
     "emails": [],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "SJ",
@@ -858,9 +881,10 @@
     "emails": [
       "filosofia@uc.cl"
     ],
-    "social": {
-      "facebook": "ExtensionInstitutoDeFilosofiaUc"
-    }
+    "social": [{
+      "type": "facebook",
+      "url": "ExtensionInstitutoDeFilosofiaUc"
+    }]
   },
   "parent": {
     "identifier": "SJ",
@@ -904,7 +928,7 @@
       "comunicaciones@bio.puc.cl",
       "decanato@bio.puc.cl "
     ],
-    "social": {}
+    "social": []
   },
   "parent": {
     "identifier": "CC",
