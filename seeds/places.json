@@ -15,6 +15,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -35,6 +38,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -55,6 +61,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -75,6 +84,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -95,6 +107,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -115,6 +130,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -135,6 +153,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -155,6 +176,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -175,6 +199,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -195,6 +222,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -215,6 +245,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -235,6 +268,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -255,6 +291,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -275,6 +314,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -295,6 +337,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -318,6 +363,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -338,6 +386,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -358,6 +409,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -378,6 +432,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -582,6 +639,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -602,6 +662,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -622,6 +685,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -642,6 +708,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -662,6 +731,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -682,6 +754,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -702,6 +777,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -722,6 +800,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -742,6 +823,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -762,6 +846,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -782,6 +869,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -824,6 +914,9 @@
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
+  }, {
+    "identifier": "SOC",
+    "campus": "SJ"
   }]
 }, {
   "identifier": "ALT",
@@ -842,6 +935,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -862,6 +958,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -882,6 +981,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -902,6 +1004,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -938,11 +1043,14 @@
     "food_lunch"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -1008,6 +1116,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -1028,6 +1139,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -1048,6 +1162,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -1068,6 +1185,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "HIS",
     "campus": "SJ"
   }]
@@ -1088,6 +1208,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "HIS",
     "campus": "SJ"
   }]
@@ -1108,6 +1231,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIL",
     "campus": "SJ"
   }]
@@ -1148,6 +1274,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1168,6 +1297,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1188,6 +1320,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1208,6 +1343,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1228,6 +1366,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1248,6 +1389,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1268,6 +1412,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1288,6 +1435,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1308,6 +1458,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1328,6 +1481,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1348,6 +1504,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1368,6 +1527,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -1544,11 +1706,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -1564,11 +1729,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -1589,26 +1757,6 @@
   },
   "ancestors": [{
     "identifier": "SJ",
-    "campus": "SJ"
-  }]
-}, {
-  "identifier": "AULAMAGNA",
-  "name": "Aula Magna",
-  "location": {
-    "type": "Point",
-    "coordinates": [-33.497807, -70.609146],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "AL",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "AL",
     "campus": "SJ"
   }]
 }, {
@@ -1648,6 +1796,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -1668,6 +1819,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "BIO",
     "campus": "CC"
   }]
@@ -1688,6 +1842,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "BIO",
     "campus": "CC"
   }]
@@ -1708,6 +1865,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "BIO",
     "campus": "CC"
   }]
@@ -1912,6 +2072,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "BIO",
     "campus": "CC"
   }]
@@ -1932,6 +2095,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "BIO",
     "campus": "CC"
   }]
@@ -1952,6 +2118,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "BIO",
     "campus": "CC"
   }]
@@ -2584,11 +2753,14 @@
     "trash"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -2704,11 +2876,14 @@
     "trash"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -2724,11 +2899,14 @@
     "trash"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -2744,11 +2922,14 @@
     "trash"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -2991,6 +3172,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -3011,6 +3195,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -3031,6 +3218,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CDI",
     "campus": "SJ"
   }]
@@ -3051,6 +3241,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -3071,6 +3264,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -3091,6 +3287,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -3111,6 +3310,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -3131,6 +3333,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "TEMPLO",
     "campus": "SJ"
   }]
@@ -3151,6 +3356,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "HIS",
     "campus": "SJ"
   }]
@@ -3171,6 +3379,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -3191,6 +3402,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -3276,11 +3490,14 @@
     "bath"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -3296,11 +3513,14 @@
     "bath"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -3320,6 +3540,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -3340,6 +3563,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -3360,6 +3586,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -3400,6 +3629,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -3420,6 +3652,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -3440,6 +3675,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -3460,6 +3698,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -3723,6 +3964,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -3743,6 +3987,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -3763,6 +4010,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -3783,6 +4033,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -3803,6 +4056,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -3823,6 +4079,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "HIS",
     "campus": "SJ"
   }]
@@ -3843,6 +4102,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "HIS",
     "campus": "SJ"
   }]
@@ -3883,6 +4145,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -3962,11 +4227,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -4006,6 +4274,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -4026,6 +4297,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "HIS",
     "campus": "SJ"
   }]
@@ -4046,6 +4320,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "MAT",
     "campus": "SJ"
   }]
@@ -4062,11 +4339,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -4166,6 +4446,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -4186,6 +4469,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -4206,6 +4492,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -4226,6 +4515,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -4246,6 +4538,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -4266,6 +4561,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -4286,6 +4584,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -4306,6 +4607,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CDI",
     "campus": "SJ"
   }]
@@ -4326,6 +4630,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CDI",
     "campus": "SJ"
   }]
@@ -4346,6 +4653,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CDI",
     "campus": "SJ"
   }]
@@ -4366,6 +4676,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CDI",
     "campus": "SJ"
   }]
@@ -4386,6 +4699,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "COM",
     "campus": "CC"
   }]
@@ -4406,6 +4722,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "DE",
     "campus": "SJ"
   }]
@@ -4426,6 +4745,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -4466,6 +4788,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "COM",
     "campus": "CC"
   }]
@@ -4486,6 +4811,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "COM",
     "campus": "CC"
   }]
@@ -4506,6 +4834,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "COM",
     "campus": "CC"
   }]
@@ -4526,6 +4857,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "COM",
     "campus": "CC"
   }]
@@ -4547,6 +4881,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -4568,6 +4905,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -4589,6 +4929,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -4651,11 +4994,14 @@
     "printer"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -4672,11 +5018,14 @@
     "printer"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -5016,6 +5365,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -5079,6 +5431,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -5139,6 +5494,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -5195,11 +5553,14 @@
     "other"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -5219,6 +5580,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -5259,6 +5623,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -5279,6 +5646,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -5299,6 +5669,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5342,6 +5715,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "MED",
     "campus": "CC"
   }]
@@ -5358,11 +5734,14 @@
     "other"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -5402,6 +5781,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -5442,6 +5824,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -5528,6 +5913,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -5568,6 +5956,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -5588,6 +5979,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -5608,6 +6002,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -5674,6 +6071,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5694,6 +6094,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5774,6 +6177,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5794,6 +6200,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5814,6 +6223,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5834,6 +6246,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5854,6 +6269,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5874,6 +6292,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5894,6 +6315,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5914,6 +6338,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5934,6 +6361,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5954,6 +6384,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5974,6 +6407,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -5994,6 +6430,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -6014,6 +6453,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AL",
     "campus": "SJ"
   }]
@@ -6137,6 +6579,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -6157,6 +6602,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   }]
@@ -6197,6 +6645,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -6217,6 +6668,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -6257,6 +6711,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -6297,6 +6754,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -6337,6 +6797,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -6357,6 +6820,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -6377,6 +6843,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -6397,6 +6866,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "LA_Y",
     "campus": "SJ"
   }]
@@ -6476,11 +6948,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -6500,6 +6975,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -6520,6 +6998,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -6563,6 +7044,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -6583,6 +7067,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -6603,6 +7090,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -6623,6 +7113,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -6643,6 +7136,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -6663,6 +7159,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -6683,6 +7182,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -6703,6 +7205,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -6723,6 +7228,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6743,6 +7251,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6763,6 +7274,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6783,6 +7297,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6803,6 +7320,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6823,6 +7343,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6843,6 +7366,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6863,6 +7389,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6883,6 +7412,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6903,6 +7435,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6926,6 +7461,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -6946,6 +7484,9 @@
     "campus": "LC"
   },
   "ancestors": [{
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
     "identifier": "FADEU",
     "campus": "LC"
   }]
@@ -6989,6 +7530,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -7025,11 +7569,14 @@
     "park_bicycle"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -7072,6 +7619,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -7092,6 +7642,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -7132,6 +7685,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "DPT",
     "campus": "SJ"
   }]
@@ -7152,6 +7708,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "LA_Y",
     "campus": "SJ"
   }]
@@ -7212,6 +7771,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -7232,6 +7794,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -7252,6 +7817,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -7288,11 +7856,14 @@
     "other"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -7312,6 +7883,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -7328,11 +7902,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -7348,11 +7925,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -7368,11 +7948,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -7388,11 +7971,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -7408,11 +7994,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -7429,11 +8018,14 @@
     "printer"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -7453,6 +8045,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "BIO",
     "campus": "CC"
   }]
@@ -7470,11 +8065,14 @@
   ],
   "parent": {
     "identifier": "DE",
-    "campus": "SJ"
+    "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "DE",
-    "campus": "SJ"
+    "campus": "CC"
   }]
 }, {
   "identifier": "fotocopia16",
@@ -7493,6 +8091,9 @@
     "campus": "CC"
   },
   "ancestors": [{
+    "identifier": "CC",
+    "campus": "CC"
+  }, {
     "identifier": "MED",
     "campus": "CC"
   }]
@@ -7509,11 +8110,14 @@
     "photocopy"
   ],
   "parent": {
-    "identifier": "TEO",
+    "identifier": "TTF",
     "campus": "SJ"
   },
   "ancestors": [{
-    "identifier": "TEO",
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "TTF",
     "campus": "SJ"
   }]
 }, {
@@ -7636,6 +8240,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "D",
     "campus": "SJ"
   }]
@@ -7656,6 +8263,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EA",
     "campus": "SJ"
   }]
@@ -7676,6 +8286,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "EDU",
     "campus": "SJ"
   }]
@@ -7696,6 +8309,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "HIS",
     "campus": "SJ"
   }]
@@ -7716,6 +8332,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "ENF",
     "campus": "SJ"
   }]
@@ -7736,6 +8355,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "CCL",
     "campus": "SJ"
   }]
@@ -7756,6 +8378,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -7776,6 +8401,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -7816,6 +8444,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   }]
@@ -7836,6 +8467,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   }]
@@ -7856,6 +8490,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   }]
@@ -7876,6 +8513,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   }]
@@ -7976,6 +8616,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "SOC",
     "campus": "SJ"
   }]
@@ -7992,11 +8635,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LA_Y",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LA_Y",
     "campus": "SJ"
   }]
 }, {
@@ -8012,11 +8658,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LA_Y",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LA_Y",
     "campus": "SJ"
   }]
 }, {
@@ -8032,11 +8681,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LA_Y",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LA_Y",
     "campus": "SJ"
   }]
 }, {
@@ -8052,11 +8704,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LA_Y",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LA_Y",
     "campus": "SJ"
   }]
 }, {
@@ -8096,6 +8751,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -8112,11 +8770,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -8132,11 +8793,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -8152,11 +8816,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -8172,11 +8839,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -8196,6 +8866,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -8216,6 +8889,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -8236,6 +8912,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -8256,6 +8935,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -8276,6 +8958,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -8296,6 +8981,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -8316,6 +9004,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -8336,6 +9027,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "AGC",
     "campus": "SJ"
   }]
@@ -8356,6 +9050,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -8372,11 +9069,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -8396,6 +9096,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -8436,6 +9139,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "QIM",
     "campus": "SJ"
   }]
@@ -8456,6 +9162,9 @@
     "campus": "SJ"
   },
   "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
     "identifier": "FIS",
     "campus": "SJ"
   }]
@@ -8552,12 +9261,15 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "lab_qim",
@@ -8672,12 +9384,12 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "libreriauc_sociales",
@@ -8688,9 +9400,7 @@
     "floor": "1"
   },
   "information": "",
-  "categories": [
-    "classroom"
-  ],
+  "categories": [],
   "parent": {
     "identifier": "SJ",
     "campus": "SJ"
@@ -8708,16 +9418,14 @@
     "floor": "1?"
   },
   "information": "",
-  "categories": [
-    "classroom"
-  ],
+  "categories": [],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "OR",
+    "campus": "OR"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "OR",
+    "campus": "OR"
   }]
 }, {
   "identifier": "LAMPARA",
@@ -8732,12 +9440,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "m",
@@ -8752,12 +9463,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "M1",
@@ -8772,11 +9483,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -8792,11 +9506,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -8824,7 +9541,7 @@
   }]
 }, {
   "identifier": "magister_or",
-  "name": "Masgister",
+  "name": "Magister",
   "location": {
     "type": "Point",
     "coordinates": [-33.446333, -70.594229],
@@ -8835,12 +9552,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "OR",
+    "campus": "OR"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "OR",
+    "campus": "OR"
   }]
 }, {
   "identifier": "micro_electro_cc",
@@ -8855,12 +9572,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "MOSCATTI",
@@ -8875,12 +9592,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "MILTICANCH",
@@ -9266,29 +9983,6 @@
     "campus": "SJ"
   }]
 }, {
-  "identifier": "MUS",
-  "name": "Música",
-  "location": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }]
-}, {
   "identifier": "N10",
   "name": "N10",
   "location": {
@@ -9301,11 +9995,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9321,11 +10018,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9341,11 +10041,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9361,11 +10064,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9381,11 +10087,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9401,11 +10110,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9421,11 +10133,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9444,11 +10159,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9467,11 +10185,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9487,11 +10208,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9507,11 +10231,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9527,11 +10254,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9547,11 +10277,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9567,11 +10300,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9587,11 +10323,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9607,11 +10346,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9627,11 +10369,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9647,11 +10392,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9667,11 +10415,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9687,11 +10438,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9707,11 +10461,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9727,11 +10484,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9747,11 +10507,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9767,11 +10530,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9787,11 +10553,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9807,11 +10576,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9827,11 +10599,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9850,11 +10625,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9870,11 +10648,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9890,11 +10671,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9910,11 +10694,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9930,11 +10717,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9950,11 +10740,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9970,11 +10763,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -9990,11 +10786,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -10010,12 +10809,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "preuuc_sociales",
@@ -10030,11 +10829,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -10050,12 +10852,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "PatioSub_SA",
@@ -10090,12 +10892,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "postgrado_lc",
@@ -10113,12 +10918,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "Preu_social_ING",
@@ -10133,11 +10941,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "ING",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "ING",
     "campus": "SJ"
   }]
 }, {
@@ -10153,11 +10964,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -10173,11 +10987,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -10553,11 +11370,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HALL SJ",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HALL SJ",
     "campus": "SJ"
   }]
 }, {
@@ -10570,15 +11390,15 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "qim_biologica",
@@ -10633,11 +11453,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LET",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LET",
     "campus": "SJ"
   }]
 }, {
@@ -10653,11 +11476,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LET",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LET",
     "campus": "SJ"
   }]
 }, {
@@ -10673,11 +11499,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LET",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LET",
     "campus": "SJ"
   }]
 }, {
@@ -10693,11 +11522,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LET",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LET",
     "campus": "SJ"
   }]
 }, {
@@ -10713,11 +11545,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LET",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LET",
     "campus": "SJ"
   }]
 }, {
@@ -10733,11 +11568,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LET",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LET",
     "campus": "SJ"
   }]
 }, {
@@ -10753,15 +11591,18 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "FIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
+  }, {
+    "identifier": "FIS",
+    "campus": "SJ"
   }]
 }, {
-  "identifier": "recepcion_cc",
+  "identifier": "recepcion_ccl",
   "name": "Recepción",
   "location": {
     "type": "Point",
@@ -10773,15 +11614,18 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CCL",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
+  }, {
+    "identifier": "CCL",
+    "campus": "SJ"
   }]
 }, {
-  "identifier": "recepcion_ed",
+  "identifier": "recepcion_edu",
   "name": "Recepción",
   "location": {
     "type": "Point",
@@ -10793,11 +11637,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EDU",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EDU",
     "campus": "SJ"
   }]
 }, {
@@ -10813,15 +11660,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
-  "identifier": "recursos_aprendiz_ed",
+  "identifier": "recursos_aprendiz_edu",
   "name": "Recursos Aprendizaje",
   "location": {
     "type": "Point",
@@ -10833,11 +11680,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EDU",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EDU",
     "campus": "SJ"
   }]
 }, {
@@ -10853,11 +11703,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -10873,11 +11726,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -10893,11 +11749,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -10913,11 +11772,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -10933,11 +11795,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -10953,11 +11818,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -10973,11 +11841,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -10993,11 +11864,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11013,11 +11887,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11033,11 +11910,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11053,11 +11933,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11073,11 +11956,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11093,11 +11979,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11113,11 +12002,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11133,11 +12025,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11153,11 +12048,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11173,11 +12071,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11193,11 +12094,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -11236,12 +12140,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "SALA102",
@@ -11256,12 +12163,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "SALA103",
@@ -11276,12 +12186,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "SALA104",
@@ -11296,12 +12209,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "SALA11",
@@ -11365,11 +12281,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11388,11 +12307,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11488,12 +12410,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "SALA 20",
@@ -11508,11 +12433,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11528,11 +12456,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11548,11 +12479,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11568,11 +12502,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11588,11 +12525,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11608,11 +12548,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11628,11 +12571,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11648,11 +12594,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11668,11 +12617,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11688,11 +12640,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11708,11 +12663,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11728,11 +12686,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11748,11 +12709,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11768,11 +12732,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11788,11 +12755,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11808,11 +12778,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11828,11 +12801,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11848,11 +12824,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11868,11 +12847,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -11888,12 +12870,15 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "FADEU",
+    "campus": "LC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
+    "campus": "LC"
   }]
 }, {
   "identifier": "SalaAyudantes_SA",
@@ -11908,11 +12893,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   }]
 }, {
@@ -11928,11 +12916,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "FIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "FIS",
     "campus": "SJ"
   }]
 }, {
@@ -11988,12 +12979,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "PLIRA",
@@ -12008,12 +12999,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "salaestudio1",
@@ -12348,11 +13339,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "ENF",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "ENF",
     "campus": "SJ"
   }]
 }, {
@@ -12368,12 +13362,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "salaestudio17",
@@ -12488,11 +13482,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "ING",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "ING",
     "campus": "SJ"
   }]
 }, {
@@ -12508,11 +13505,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -12528,11 +13528,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -12548,11 +13551,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -12568,11 +13574,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HALL SJ",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HALL SJ",
     "campus": "SJ"
   }]
 }, {
@@ -12588,11 +13597,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -12608,11 +13620,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "FIL",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "FIL",
     "campus": "SJ"
   }]
 }, {
@@ -12628,11 +13643,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LET",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LET",
     "campus": "SJ"
   }]
 }, {
@@ -12645,14 +13663,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HALL SJ",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HALL SJ",
     "campus": "SJ"
   }]
 }, {
@@ -12665,34 +13686,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EA",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
-}, {
-  "identifier": "almuerzo10",
-  "name": "Sodexo",
-  "location": {
-    "type": "Point",
-    "coordinates": [-33.502811, -70.61148],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
+  }, {
+    "identifier": "EA",
     "campus": "SJ"
   }]
 }, {
@@ -12705,15 +13709,15 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "almuerzo2",
@@ -12725,14 +13729,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LET",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LET",
     "campus": "SJ"
   }]
 }, {
@@ -12745,19 +13752,22 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CCL",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
+  }, {
+    "identifier": "CCL",
+    "campus": "SJ"
   }]
 }, {
   "identifier": "almuerzo4",
-  "name": "Sodexo",
+  "name": "Food Garden",
   "location": {
     "type": "Point",
     "coordinates": [-33.499634, -70.613803],
@@ -12765,14 +13775,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "ING",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "ING",
     "campus": "SJ"
   }]
 }, {
@@ -12785,7 +13798,7 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
     "identifier": "SJ",
@@ -12805,19 +13818,22 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "AGC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
+  }, {
+    "identifier": "AGC",
+    "campus": "SJ"
   }]
 }, {
   "identifier": "almuerzo7",
-  "name": "Sodexo",
+  "name": "Comida",
   "location": {
     "type": "Point",
     "coordinates": [-33.497868, -70.609826],
@@ -12825,54 +13841,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
-}, {
-  "identifier": "almuerzo8",
-  "name": "Sodexo",
-  "location": {
-    "type": "Point",
-    "coordinates": [-33.498054, -70.613483],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }]
-}, {
-  "identifier": "almuerzo9",
-  "name": "Sodexo",
-  "location": {
-    "type": "Point",
-    "coordinates": [-33.498272, -70.616351],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -12885,35 +13864,15 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }]
-}, {
-  "identifier": "Sodexo_dpt",
-  "name": "Sodexo (Pérgola)",
-  "location": {
-    "type": "Point",
-    "coordinates": [-33.499729, -70.609654],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "starbucks_sociales",
@@ -12925,14 +13884,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "food_lunch"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -12948,11 +13910,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EA",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EA",
     "campus": "SJ"
   }]
 }, {
@@ -12968,11 +13933,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EA",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EA",
     "campus": "SJ"
   }]
 }, {
@@ -12988,11 +13956,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "ING",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "ING",
     "campus": "SJ"
   }]
 }, {
@@ -13005,15 +13976,15 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "bank"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "T1220",
@@ -13028,11 +13999,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EDU",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EDU",
     "campus": "SJ"
   }]
 }, {
@@ -13048,11 +14022,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EDU",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EDU",
     "campus": "SJ"
   }]
 }, {
@@ -13068,11 +14045,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EDU",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EDU",
     "campus": "SJ"
   }]
 }, {
@@ -13088,11 +14068,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EDU",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EDU",
     "campus": "SJ"
   }]
 }, {
@@ -13108,11 +14091,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EDU",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EDU",
     "campus": "SJ"
   }]
 }, {
@@ -13128,11 +14114,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "EDU",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "EDU",
     "campus": "SJ"
   }]
 }, {
@@ -13148,34 +14137,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "QIM",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
     "campus": "SJ"
-  }]
-}, {
-  "identifier": "TEA",
-  "name": "Teatro",
-  "location": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
+  }, {
+    "identifier": "QIM",
     "campus": "SJ"
   }]
 }, {
@@ -13191,12 +14160,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "OR",
+    "campus": "OR"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "OR",
+    "campus": "OR"
   }]
 }, {
   "identifier": "templo_or",
@@ -13211,12 +14180,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "OR",
+    "campus": "OR"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "OR",
+    "campus": "OR"
   }]
 }, {
   "identifier": "TUNEL_ORIE",
@@ -13231,11 +14200,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -13251,11 +14223,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "LC",
+    "identifier": "FADEU",
     "campus": "LC"
   },
   "ancestors": [{
     "identifier": "LC",
+    "campus": "LC"
+  }, {
+    "identifier": "FADEU",
     "campus": "LC"
   }]
 }, {
@@ -13291,14 +14266,18 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "classroom",
+    "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "FIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "FIS",
     "campus": "SJ"
   }]
 }]
