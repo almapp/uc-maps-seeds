@@ -14280,4 +14280,119 @@
     "identifier": "FIS",
     "campus": "SJ"
   }]
+}, {
+  "identifier": "TMP101",
+  "name": "TMP101",
+  "location": {
+    "type": "Point",
+    "coordinates": [-33.497550, -70.608387],
+    "floor": "1"
+  },
+  "information": "Salas temporales",
+  "categories": [
+    "classroom"
+  ],
+  "parent": {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  }]
+}, {
+  "identifier": "TMP102",
+  "name": "TMP102",
+  "location": {
+    "type": "Point",
+    "coordinates": [-33.497636, -70.608368],
+    "floor": "1"
+  },
+  "information": "Salas temporales",
+  "categories": [
+    "classroom"
+  ],
+  "parent": {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  }]
+}, {
+  "identifier": "TMP103",
+  "name": "TMP103",
+  "location": {
+    "type": "Point",
+    "coordinates": [-33.497542, -70.608148],
+    "floor": "1"
+  },
+  "information": "Salas temporales",
+  "categories": [
+    "classroom"
+  ],
+  "parent": {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  }]
+}, {
+  "identifier": "TMP104",
+  "name": "TMP104",
+  "location": {
+    "type": "Point",
+    "coordinates": [-33.497517, -70.608208],
+    "floor": "1"
+  },
+  "information": "Salas temporales",
+  "categories": [
+    "classroom"
+  ],
+  "parent": {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  }]
+}, {
+  "identifier": "TMP105",
+  "name": "TMP105",
+  "location": {
+    "type": "Point",
+    "coordinates": [-33.497525, -70.608297],
+    "floor": "1"
+  },
+  "information": "Salas temporales",
+  "categories": [
+    "classroom"
+  ],
+  "parent": {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CONTAINERS",
+    "campus": "SJ"
+  }]
 }]

@@ -236,4 +236,41 @@
   "categories": [
     "building"
   ]
+}, {
+  "identifier": "CONTAINERS",
+  "campus": "SJ",
+  "name": "Salas TMP",
+  "shortName": "Salas TMP",
+  "location": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-33.497502, -70.608489],
+        [-33.497452, -70.608071],
+        [-33.497641, -70.608034],
+        [-33.497671, -70.608159],
+        [-33.497719, -70.608153],
+        [-33.497731, -70.608261],
+        [-33.497686, -70.608267],
+        [-33.497710, -70.608444]
+      ]
+    ]
+  },
+  "contact": {
+    "urls": [],
+    "phones": [],
+    "emails": [],
+    "social": []
+  },
+  "parent": {
+    "identifier": "SJ",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }],
+  "categories": [
+    "building"
+  ]
 }]
