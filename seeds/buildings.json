@@ -273,4 +273,32 @@
   "categories": [
     "building"
   ]
+}, {
+  "identifier": "complejo_luksic",
+  "name": "Complejo Andrónico Luksic",
+  "location": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-33.499541, -70.614404],
+        [-33.499525, -70.614163],
+        [-33.500028, -70.614104],
+        [-33.500110, -70.615057],
+        [-33.499914, -70.615105],
+        [-33.499849, -70.614375]
+      ]
+    ]
+  },
+  "information": "",
+  "categories": [
+    "building"
+  ],
+  "parent": {
+    "identifier": "SJ",
+    "campus": "SJ"
+  },
+  "ancestors": [{
+    "identifier": "SJ",
+    "campus": "SJ"
+  }]
 }]
