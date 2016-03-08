@@ -905,10 +905,11 @@
   },
   "information": "",
   "categories": [
-    "other"
+    "other",
+    "shop"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
@@ -1663,14 +1664,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "auditorium"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "complejo_luksic",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "complejo_luksic",
     "campus": "SJ"
   }]
 }, {
@@ -1686,11 +1690,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "complejo_luksic",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "complejo_luksic",
     "campus": "SJ"
   }]
 }, {
@@ -1752,11 +1759,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "QIM",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "QIM",
     "campus": "SJ"
   }]
 }, {
@@ -4362,11 +4372,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "AGC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "AGC",
     "campus": "SJ"
   }]
 }, {
@@ -4379,14 +4392,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "other"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -4706,29 +4722,6 @@
     "campus": "CC"
   }]
 }, {
-  "identifier": "CED",
-  "name": "CED",
-  "location": {
-    "type": "Point",
-    "coordinates": [-33.418967, -70.618195],
-    "floor": "?"
-  },
-  "information": "",
-  "categories": [
-    "other"
-  ],
-  "parent": {
-    "identifier": "DE",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }, {
-    "identifier": "DE",
-    "campus": "SJ"
-  }]
-}, {
   "identifier": "ceps",
   "name": "CEPS",
   "location": {
@@ -4761,14 +4754,17 @@
   },
   "information": "",
   "categories": [
-    "classroom"
+    "other"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "QIM",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "QIM",
     "campus": "SJ"
   }]
 }, {
@@ -5041,11 +5037,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5061,11 +5060,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5081,11 +5083,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5101,11 +5106,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5121,11 +5129,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5141,11 +5152,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5161,11 +5175,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5181,11 +5198,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5201,11 +5221,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5221,11 +5244,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5241,11 +5267,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5261,11 +5290,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5281,11 +5313,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5301,11 +5336,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5321,11 +5359,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -5513,11 +5554,14 @@
     "other"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "AL",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "AL",
     "campus": "SJ"
   }]
 }, {
@@ -5533,12 +5577,12 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   },
   "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
+    "identifier": "CC",
+    "campus": "CC"
   }]
 }, {
   "identifier": "capilla_lc",
@@ -5757,11 +5801,14 @@
     "other"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "LA_Y",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "LA_Y",
     "campus": "SJ"
   }]
 }, {
@@ -5828,26 +5875,6 @@
     "campus": "SJ"
   }, {
     "identifier": "FIS",
-    "campus": "SJ"
-  }]
-}, {
-  "identifier": "luksic",
-  "name": "Complejo Andrónico Luksic",
-  "location": {
-    "type": "Point",
-    "coordinates": [-33.499906, -70.614197],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "other"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
     "campus": "SJ"
   }]
 }, {
@@ -6113,11 +6140,14 @@
     "computers"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -6492,11 +6522,14 @@
     "other"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HALL SJ",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HALL SJ",
     "campus": "SJ"
   }]
 }, {
@@ -6512,11 +6545,14 @@
     "other"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -6587,7 +6623,7 @@
   }]
 }, {
   "identifier": "DCC",
-  "name": "Departamento Ciencias de la Computación (DCC)",
+  "name": "Departamento de Ciencias de la Computación",
   "location": {
     "type": "Point",
     "coordinates": [-33.498974, -70.61516],
@@ -9115,11 +9151,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -9181,11 +9220,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -9201,11 +9243,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -9241,11 +9286,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "HIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "HIS",
     "campus": "SJ"
   }]
 }, {
@@ -9284,11 +9332,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "QIM",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "QIM",
     "campus": "SJ"
   }]
 }, {
@@ -9304,11 +9355,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "QIM",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "QIM",
     "campus": "SJ"
   }]
 }, {
@@ -9324,11 +9378,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "CS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "CS",
     "campus": "SJ"
   }]
 }, {
@@ -9344,11 +9401,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9364,11 +9424,14 @@
     "lab"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "FIS",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "FIS",
     "campus": "SJ"
   }]
 }, {
@@ -9400,13 +9463,18 @@
     "floor": "1"
   },
   "information": "",
-  "categories": [],
+  "categories": [
+    "other"
+  ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SOC",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SOC",
     "campus": "SJ"
   }]
 }, {
@@ -9517,29 +9585,6 @@
     "campus": "SJ"
   }]
 }, {
-  "identifier": "MAGISTER",
-  "name": "Magister",
-  "location": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ],
-    "floor": "1"
-  },
-  "information": "",
-  "categories": [
-    "classroom"
-  ],
-  "parent": {
-    "identifier": "SJ",
-    "campus": "SJ"
-  },
-  "ancestors": [{
-    "identifier": "SJ",
-    "campus": "SJ"
-  }]
-}, {
   "identifier": "magister_or",
   "name": "Magister",
   "location": {
@@ -9604,10 +9649,7 @@
   "name": "Multicancha",
   "location": {
     "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ],
+    "coordinates": [-33.499555, -70.607025],
     "floor": "1"
   },
   "information": "",
@@ -9615,11 +9657,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "DPT",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "DPT",
     "campus": "SJ"
   }]
 }, {
@@ -10872,11 +10917,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "SAN_AGUSTIN",
     "campus": "SJ"
   }]
 }, {
@@ -11413,11 +11461,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "QIM",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "QIM",
     "campus": "SJ"
   }]
 }, {
@@ -11433,11 +11484,14 @@
     "classroom"
   ],
   "parent": {
-    "identifier": "SJ",
+    "identifier": "QIM",
     "campus": "SJ"
   },
   "ancestors": [{
     "identifier": "SJ",
+    "campus": "SJ"
+  }, {
+    "identifier": "QIM",
     "campus": "SJ"
   }]
 }, {
